@@ -1,0 +1,32 @@
+split_hotkey = "home"
+reset_hotkey = "page up"
+undo_split_hotkey = "page down"
+skip_split_hotkey = ""
+pause_hotkey = "end"
+screenshot_hotkey = ""
+toggle_auto_reset_image_hotkey = ""
+fps_limit = 60
+live_capture_region = true
+capture_method = "WINDOWS_GRAPHICS_CAPTURE"
+capture_device_id = 0
+capture_device_name = ""
+default_comparison_method = 1
+default_similarity_threshold = 0.9
+default_delay_time = 0
+default_pause_time = 2.0
+loop_splits = false
+start_also_resets = false
+enable_auto_reset = false
+split_image_directory = "C:/Users/Riv/Downloads/Psychopomp Autosplits"
+screenshot_directory = "C:/Users/Riv/Downloads/Screenies"
+open_screenshot = true
+screenshot_on = [
+    "split",
+]
+captured_window_title = "Psychopomp Gold (DEBUG)"
+
+[capture_region]
+x = 433
+y = 2
+width = 2568
+height = 1444
