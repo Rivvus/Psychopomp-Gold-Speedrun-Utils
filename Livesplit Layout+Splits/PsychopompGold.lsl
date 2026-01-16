@@ -186,8 +186,8 @@
       <Path>LiveSplit.AutoSplitIntegration.dll</Path>
       <Settings>
         <Version>1.8</Version>
-        <AutoSplitPath>C:\Users\Riv\Downloads\AutoSplit.v2.3.2.for.windows-latest.Python.3.13\AutoSplit.exe</AutoSplitPath>
-        <SettingsPath>C:\Users\Riv\Desktop\psychopompGold.toml</SettingsPath>
+        <AutoSplitPath>C:\Users\Riv\Downloads\Autosplit\AutoSplit.exe</AutoSplitPath>
+        <SettingsPath>C:\Users\Riv\Downloads\Psychopomp Gold Speedrun Utils\Psychopomp Gold Autosplitter\psychopompGold.toml</SettingsPath>
         <GameTimePausing>False</GameTimePausing>
       </Settings>
     </Component>

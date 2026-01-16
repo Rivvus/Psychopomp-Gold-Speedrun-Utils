@@ -14,12 +14,8 @@
     <CustomVariables />
   </Metadata>
   <Offset>00:00:00</Offset>
-  <AttemptCount>4</AttemptCount>
-  <AttemptHistory>
-    <Attempt id="1" started="01/15/2026 07:02:14" isStartedSynced="True" ended="01/15/2026 07:02:22" isEndedSynced="True" />
-    <Attempt id="2" started="01/15/2026 07:20:19" isStartedSynced="True" ended="01/15/2026 07:21:15" isEndedSynced="True" />
-    <Attempt id="3" started="01/15/2026 07:27:08" isStartedSynced="True" ended="01/15/2026 07:28:30" isEndedSynced="True" />
-  </AttemptHistory>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
   <Segments>
     <Segment>
       <Name>Tutorial</Name>
@@ -27,14 +23,8 @@
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:41.6220616</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="2">
-          <RealTime>00:00:41.6220616</RealTime>
-        </Time>
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>Sewage Treatment</Name>
@@ -42,14 +32,8 @@
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:01.5353853</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="2">
-          <RealTime>00:00:01.5353853</RealTime>
-        </Time>
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>Children's Hospital</Name>
