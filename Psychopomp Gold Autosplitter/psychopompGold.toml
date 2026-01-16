@@ -13,13 +13,13 @@ capture_device_name = ""
 default_comparison_method = 1
 default_similarity_threshold = 0.9
 default_delay_time = 0
-default_pause_time = 2.0
+default_pause_time = 30.0
 loop_splits = false
 start_also_resets = false
 enable_auto_reset = false
 split_image_directory = "C:/Users/Riv/Downloads/Psychopomp Gold Speedrun Utils/Psychopomp Gold Autosplitter/Images"
 screenshot_directory = "C:/Users/Riv/Downloads/Screenies"
-open_screenshot = true
+open_screenshot = false
 screenshot_on = [
     "split",
 ]
